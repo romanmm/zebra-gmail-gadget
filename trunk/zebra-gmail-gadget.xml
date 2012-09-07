@@ -12,7 +12,7 @@
       <p><a>
         <xsl:attribute name="href">
         <xsl:text>mailto:</xsl:text>
-        <xsl:text>shaon@temc.org.il</xsl:text>
+        <xsl:text>shaon@temc.org.il</xsl:text></xsl:attribute>
         <xsl:text>SHAON</xsl:text>
       </a></p>
       <p> <a href="mailto:shaon@temc.org.il?Subject=Часы%20работы"></a></p>
