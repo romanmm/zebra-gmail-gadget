@@ -9,6 +9,7 @@
     </style>
       <div>
       <p> <a href="https://12889.zebracrm.com/crm.php?a=calendar/main" target="_blank"><strong>ЗЕБРА</strong> из офиса</a></p>
+      <p> <EMAIL mailto="shaon@temc.org.il">shaon@temc.org.il</EMAIL></p>
       <p><a>
         <xsl:attribute name="href">
         <xsl:text>mailto:</xsl:text>
