@@ -7,15 +7,15 @@
       p {margin-left:5px; font-size: 14px;}
       div {background-color:#bbb; padding: 5px;}
     </style>
+    <author email="scotti@SiteExperts.com">Scott Isaacs</author>
       <div>
       <p> <a href="https://12889.zebracrm.com/crm.php?a=calendar/main" target="_blank"><strong>ЗЕБРА</strong> из офиса</a></p>
-      <p> <EMAIL mailto="shaon@temc.org.il">shaon@temc.org.il</EMAIL></p>
-      <p><a>
-        <xsl:attribute name="href">
-        <xsl:text>mailto:</xsl:text>
-        <xsl:text>shaon@temc.org.il</xsl:text></xsl:attribute>
-        <xsl:text>SHAON</xsl:text>
-      </a></p>
+      <p> <a>
+         <xsl:attribute name="href">mailto:
+          <xsl:value-of select="article/meta/author/@email"/>
+         </xsl:attribute>
+         <xsl:value-of select="article/meta/author"/>
+     </a></p<
       <p> <a href="mailto:shaon@temc.org.il?Subject=Часы%20работы"></a></p>
      <p> <a href="https://spreadsheets0.google.com/spreadsheet/viewform?hl=en_US&amp;hl=en_US&amp;formkey=dEZ3T3JvTFpIS1FzYmxtRDRoX0FqQWc6MQ#gid=0" target="_blank">Форма для <strong>РОМЫ</strong></a></p>
      <p> <a href="https://zebra.ichilovtop.com:10443/" target="_blank"><strong>ЗЕБРА</strong> из дома</a></p>
