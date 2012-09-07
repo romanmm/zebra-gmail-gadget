@@ -4,13 +4,13 @@
   <Content type="html">
     <![CDATA[
     <style type="text/css">
-      p {margin-left:5px;}
-      div {background-color:#bbb;}
+      p {margin-left:5px; font-size: 14px;}
+      div {background-color:#bbb; padding: 5px;}
     </style>
       <div>
-      <p> <a href="https://12889.zebracrm.com/crm.php?a=calendar/main" target="_blank">ЗЕБРА из офиса</a></p>
-     <p> <a href="https://spreadsheets0.google.com/spreadsheet/viewform?hl=en_US&amp;hl=en_US&amp;formkey=dEZ3T3JvTFpIS1FzYmxtRDRoX0FqQWc6MQ#gid=0" target="_blank">Форма для РОМЫ</a></p>
-     <p> <a href="https://zebra.ichilovtop.com:10443/" target="_blank">ЗЕБРА из дома</a></p>
+      <p> <a href="https://12889.zebracrm.com/crm.php?a=calendar/main" target="_blank"><strong>ЗЕБРА</strong> из офиса</a></p>
+     <p> <a href="https://spreadsheets0.google.com/spreadsheet/viewform?hl=en_US&amp;hl=en_US&amp;formkey=dEZ3T3JvTFpIS1FzYmxtRDRoX0FqQWc6MQ#gid=0" target="_blank">Форма для <strong>РОМЫ</strong></a></p>
+     <p> <a href="https://zebra.ichilovtop.com:10443/" target="_blank"><strong>ЗЕБРА</strong> из дома</a></p>
      </div>
     ]]>
   </Content>
