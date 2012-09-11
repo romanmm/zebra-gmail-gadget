@@ -6,10 +6,14 @@
     <style type="text/css">
       p {margin-left:5px; font-size: 14px;}
       div {background-color:#bbb; padding: 5px;}
-      p#shana-tova {text-align: right; font-weight: bold; color: red; font-size: 18px;}
+      p#shana-tova { background-color: white; border: 1px solid blue; color: red; font-size: 18px; font-weight: bold; margin-right: 4px; padding: 4px; text-align: right;}
+      .shadow {-moz-box-shadow: inset 0 0 10px #000000; -webkit-box-shadow: inset 0 0 10px #000000; box-shadow: inset 0 0 10px #000000;}
+}
     </style>
       <div>
+      <div class="shadow">
       <p id="shana-tova">שנה טובה ומתוקה, שנת בריאות ,שגשוג והגשמה עצמית</p>
+      </div>
       <p><a href="https://12889.zebracrm.com/crm.php?a=calendar/main" target="_blank"><strong>ЗЕБРА</strong> из офиса</a></p>
       <p>shaon@temc.org.il</p>
      <p><a href="https://spreadsheets0.google.com/spreadsheet/viewform?hl=en_US&amp;hl=en_US&amp;formkey=dEZ3T3JvTFpIS1FzYmxtRDRoX0FqQWc6MQ#gid=0" target="_blank">Форма для <strong>РОМЫ</strong></a></p>
