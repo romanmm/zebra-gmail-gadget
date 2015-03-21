@@ -1,0 +1,1 @@
+Zebra and IT gadget
